@@ -46,4 +46,4 @@ Must run on Notion as a live, continuously updated dashboard, not a static docum
 I gave FEATURES.md to a chapter member with no prior project context. Each feature and acceptance statement read clearly, with no notes or confusion. However, the document doesn’t state what the end product actually is or where it lives. The reader initially assumed it described a formatted Word document shared with the chapter, since the spec mentions Notion only briefly and doesn’t say the whole thing is meant to function as a live dashboard rather than a static handout. I revised the Constraints section to name Notion explicitly as the platform. I clarified in Constraints that this is a living, updated dashboard, not a document distributed once and read passively. 
 
 ## AI assistance
-For this case I used AI to draft some effective interview questions for a chair in the chapter and a general member. I used Grammarly to tighten my grammar and responses.
+For this case I used Claude to compile some of my raw findings into summaries and draft some effective interview questions for a chair in the chapter and a general member. I used Grammarly to tighten my grammar and responses.
